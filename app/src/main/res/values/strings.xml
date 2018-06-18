@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Delhi Metro</string>
+    <string name="app_name">Delhi Metro fare</string>
     <string-array name="stations">
         <item>Source Station</item>
         <item>Noida City Center</item>
